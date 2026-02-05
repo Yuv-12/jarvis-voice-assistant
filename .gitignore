@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+speech_*.mp3
+temp_speech*.mp3
+.vscode/
+.idea/

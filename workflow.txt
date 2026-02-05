@@ -1,0 +1,17 @@
+1. Install speech recognition
+    pip install speechrecognition pyaudio
+    ->speechrecognition is a python library that convert spoken audio into text
+
+2. Install setup tools
+    pip install setuptools
+    -> what does setuptools does
+        a. install or update setuptools which is required tools
+            -> build python packages
+            -> install library with native extensions(like pyaudio)
+        b. many installed error is caused due to setup tools
+
+3. Install pyttsx3 
+    -> offline text to speech recognition, no internet required, uses system voice
+
+4. pip install pocketsphinx
+    -> useful for wakeword detection (Jarvis)

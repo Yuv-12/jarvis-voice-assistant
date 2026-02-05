@@ -1,0 +1,18 @@
+# Jarvis Voice Assistant - Requirements
+# Python 3.8+
+
+# Speech and Audio
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pygame==2.5.2
+numpy>=1.24.0
+
+# Automation and Control
+pyautogui==0.9.54
+keyboard==0.13.5
+pywhatkit==5.4
+
+# AI and API
+openai>=1.0.0
+python-dotenv==1.0.1
+requests==2.31.0
